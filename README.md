@@ -1,5 +1,5 @@
-# tanimhasanpriyanto1
-######👋 Hello, I'm Tanim 
+######tanimhasanpriyanto1
+👋 Hello, I'm Tanim 
   🎓 CS Student 
  🤖 AI &amp; Python Learner 
  💻 Building ML Projects     
